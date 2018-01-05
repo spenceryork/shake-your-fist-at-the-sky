@@ -1,0 +1,31 @@
+{
+  "name": "shake-your-fist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenceryork/shake-your-fist-at-the-sky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spenceryork/shake-your-fist-at-the-sky/issues"
+  },
+  "homepage": "https://github.com/spenceryork/shake-your-fist-at-the-sky#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "handlebars": "^4.0.11",
+    "hbsfy": "^2.8.1",
+    "jquery": "^3.2.1",
+    "matchdep": "^2.0.0"
+  }
+}
